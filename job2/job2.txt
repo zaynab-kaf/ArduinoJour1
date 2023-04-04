@@ -1,0 +1,11 @@
+JOB 2 (ARDUINO JOUR 1)
+
+Nous avons utilisé la loi d'ohm grace a la formule suivante --> V = I*R
+
+V = (5V - 2V) = 3
+I = 0.01A
+
+
+Donc R = 3 / 0.01A = 300 ohms
+
+R = 300 ohms
